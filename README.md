@@ -7,12 +7,15 @@
 
 [Tableau](https://www.tableau.com/) is a data visualization tool which provides pictorial and graphical representations of data.
 
-Your aim in this lab is to create a Tableau dashboard that shows the insight you find useful from de given data.
+Your aim in this lab is to create a **Tableau dashboard** that shows the insights you find useful from de given data.
 
 ## Your `data`
 In the `data` folder you will find the following files:
+
 **1. classicmodels.sql** : the classicmodels database (you can import it directly if you are using tableau desktop)
+
 **2. ERD.png** : the ERD of the classicmodels database
+
 **3. .xlsx files** : In case you are using tableau public (or you want to practice), you can use this files to build the database on your own.
 
 
@@ -22,18 +25,17 @@ In the `data` folder you will find the following files:
 #### Challenge 1
 Open Tableau in your laptop and import the data.
 
-Create at least **`5 sheets`** that about different insights, pay attention to the details, choose the proper figures and/or tables, build the sheets coherently with each other (example: if china is red in a graph it shoul be associated to red everywhere).
+Create at least **`5 sheets`** explaining different insights, pay attention to the details, choose the proper figures and/or tables, build the sheets coherently with each other (example: if china is red in a graph it shoul be associated to red everywhere).
 
 #### Challenge 2 
-Create at least **`two dashboards`** where you structure the info in the sheets in a way that everything make sense, it's easily readable and as self explanatory as posible.
+Create at least **`two dashboards`** where you structure the info in the sheets in a way that everything make sense, it's easily readable and self explanatory.
 
 #### Challenge 3
 Create a **`story`** to connect everything together. It should include connecting buttons.
 
-### Challenge 4
-Create your own [tableau public profile](https://public.tableau.com/s/), and upload your dashboard. Remember to set it public so anyone can check it out.
-
 ## Deliverables
+
+Create your own [tableau public profile](https://public.tableau.com/s/), and upload your dashboard. Remember to set it public so anyone can check it out.
 
 + `Markdown` file explaining the most important insights you found in the data.
 + `Link` to your tableau public profile dashboard (You can include it in the markdown file).
