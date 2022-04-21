@@ -1,6 +1,6 @@
 # Link to the dashboard
 
-### TODO: unable to upload to Public from Tableau Full
+https://public.tableau.com/app/profile/jaime.garc.a.chaparro3481/viz/LabTableauIronhack/Book?publish=yes
 
 
 # Insights
